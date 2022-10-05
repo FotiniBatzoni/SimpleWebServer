@@ -1,0 +1,19 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "Very simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FotiniBatzoni/SimpleWebServer.git"
+  },
+  "author": "Fotini Batzoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FotiniBatzoni/SimpleWebServer/issues"
+  },
+  "homepage": "https://github.com/FotiniBatzoni/SimpleWebServer#readme"
+}
