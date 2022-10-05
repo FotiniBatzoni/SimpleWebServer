@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FotiniBatzoni/SimpleWebServer/issues"
   },
-  "homepage": "https://github.com/FotiniBatzoni/SimpleWebServer#readme"
+  "homepage": "https://github.com/FotiniBatzoni/SimpleWebServer#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
